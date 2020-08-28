@@ -1,0 +1,3 @@
+include ':MallLibrary'
+include ':app'
+rootProject.name = "Demo"

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <item type="id" name="text"/>
+    <item type="id" name="image"/>
+    <item type="id" name="text_image"/>
+    <item type="id" name="banner"/>
+
+    <item type="id" name="vertical_list_menu"/>
+    <item type="id" name="id_shop_cart"/>
+    <item type="id" name="id_goods_detail_image"/>
+</resources>

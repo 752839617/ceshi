@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_container" type="id"/>
+
+    //不可重复使用的int值
+    <item type="id" name="text" />
+    <item type="id" name="images"/>
+    <item type="id" name="type_text_image"/>
+    <item type="id" name="banner"/>\
+    <item type="id" name="vertical_menu_list"/>
+
+</resources>
